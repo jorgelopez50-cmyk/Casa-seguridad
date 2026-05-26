@@ -3,9 +3,9 @@
 
 | Comando Probado | Captura de Pantalla (Evidencia) |
 | :--- | :--- |
-| **ipconfig /all** | ![Evidencia de Filtro por Categoría]()![alt text](<Captura de pantalla 2026-05-25 175544-1.jpg>) |
-| **netstat -ano** | ![Evidencia de Filtro por Jugadores]()![alt text](<Captura de pantalla 2026-05-25 175832-1.png>) |
-| **arp -a** | ![Evidencia de Combos por Presupuesto]()![alt text](<Captura de pantalla 2026-05-25 175938-1.png>) |
+| **ipconfig /all** | ![]()![alt text](<Captura de pantalla 2026-05-25 175544-1.jpg>) |
+| **netstat -ano** | ![]()![alt text](<Captura de pantalla 2026-05-25 175832-1.png>) |
+| **arp -a** | ![]()![alt text](<Captura de pantalla 2026-05-25 175938-1.png>) |
 
 ## Análisis del Diagnóstico de Red
 
